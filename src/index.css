@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-macuco-green: #2D5A27;
+  --color-macuco-brown: #5D3A1A;
+  --color-macuco-accent: #B8860B;
+  --color-macuco-dark: #121212;
+  --color-macuco-card: #1E1E1E;
+}
